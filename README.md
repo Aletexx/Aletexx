@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aletexx AKA Alessandro Bastos  
-- 🌱 I’m currently studying the Bachelor of IT (Software Development) at Melbourne Polytechinic
+- 🌱 I’m currently studying the Bachelor of IT at Melbourne Polytechinic
 - ⚡ Majoring in Software Development
 - 📫 How to reach me: https://linktr.ee/alessandrobastos
 
